@@ -51,6 +51,7 @@ export default {
     setting: 'Setting',
     general: 'General',
     config: 'Config',
+    more: 'About',
     avatarLink: 'Avatar Link',
     name: 'Name',
     description: 'Description',
